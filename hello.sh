@@ -1,3 +1,2 @@
 #!/bin/bash -x
-echo "Hello JOtiram"
-echo "demo"
+echo "hello jotiram"
