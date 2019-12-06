@@ -1,4 +1,4 @@
 #!/bin/bash -x
 echo "hello amol"
-echo "demo 1"
+echo "demo  1"
 
